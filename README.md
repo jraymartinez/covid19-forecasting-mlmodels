@@ -1,1 +1,1 @@
-# covid19-forecasting-mlmodels
+This research is implemented in fulfillment of the requirements for the Applied Machine Learning Course of Master of Science in Data Science under Drexel University College of Computing & Informatics. 
